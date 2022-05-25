@@ -11,6 +11,7 @@
 @import "google.scss";
 @import "medium.scss";
 @import "twitch.scss";
+@import "tiktok.scss";
 @import "reddit.scss";
 @import "whatsapp.scss";
 @import "gmail.scss";
@@ -110,6 +111,11 @@
   &.twitter::before {
     @include pixelize($default-size, $icon-twitter, $icon-twitter-colors);
   }
+
+  &.tiktok::before {
+    @include pixelize($default-size, $icon-tiktok, $icon-tiktok-colors);
+  }
+
 
   &.facebook::before {
     @include pixelize($default-size, $icon-facebook, $icon-facebook-colors);
