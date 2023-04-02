@@ -4,6 +4,8 @@
   <a href=".github/README-jp.md">日本語</a> / <a href=".github/README-zh-CN.md">简体中文</a> / <a href=".github/README-es.md">Español</a> / <a href=".github/README-pt-BR.md">Português</a> / <a href=".github/README-ru.md">Русский</a> / <a href=".github/README-fr.md">Français</a>
 </div>
 
+NES.css seems to have largely been abandoned by its maintainer but I like it a lot so this fork exists to kind of just keep the lights on for me personally.
+
 NES.css is a **NES-style(8bit-like)** CSS Framework.
 
 [![Gitter][gitter-badge]][gitter] [![Commitizen friendly][commitizen-badge]][commitizen]
