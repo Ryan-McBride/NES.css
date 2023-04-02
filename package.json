@@ -39,10 +39,7 @@
     "nes",
     "framework"
   ],
-  "engines": {
-    "node": ">=10.0.0"
-  },
-  "author": "BcRikko (https://github.com/Bcrikko)",
+  "author": "Ryan-McBride (https://github.com/Ryan-McBride)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nostalgic-css/NES.css/issues"
